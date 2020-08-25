@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import './BFS.css';
+import './path.css';
 
 var DUMMY_OBSTACLES = ['{"q": 4, "r":-2, "s": -2}','{"q": 4, "r":-1, "s": -3}','{"q": 4, "r":0, "s": -4}','{"q": 4, "r":1, "s": -5}','{"q": 3, "r":2, "s": -5}','{"q": 2, "r":3, "s": -5}',
 '{"q": 1, "r":4, "s": -5}','{"q": 0, "r":-5, "s": -5}','{"q": -1, "r":6, "s": -5}','{"q": -2, "r":7, "s": -5}']

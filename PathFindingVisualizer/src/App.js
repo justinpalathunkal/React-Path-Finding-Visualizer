@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
-import BFS from './BFS/BFS';
+import PathFinder from './PathFinder/path';
 
 function App() {
   return (
     <div className="App">
-      <BFS></BFS>
+      <PathFinder></PathFinder>
     </div>
   );
 }
